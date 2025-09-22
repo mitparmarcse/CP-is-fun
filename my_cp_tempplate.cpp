@@ -1,7 +1,7 @@
 // Author: mit_1618
 #include<bits/stdc++.h>
 #define endl '\n'
-#define for(lb,ub) for(size_t i=lb;i<ub;i++)
+#define ffor(lb,ub) for(size_t i=lb;i<ub;i++)
 #define rfor(ub,lb) for(size_t i=ub;i>=lb;i--)
 using ll=long long;
 using namespace std;
